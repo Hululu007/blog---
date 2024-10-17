@@ -9,7 +9,7 @@
 - [湿法炼铜导航(需要科学上网)](https://index.jitsu.top)
     - 备注: galgame、里番等导航
 
-- [摸鱼技术网 | 摸鱼儿的主页](https://www.xn--v4q818bf34b.com)
+- [摸鱼技术网 摸鱼儿的主页](https://www.xn--v4q818bf34b.com)
 
 ---
 
@@ -62,7 +62,7 @@
 
 - [A姐分享](https://www.ahhhhfs.com)
     - [2024 Photoshop入门到精通（视频+课件） - A姐分享](https://www.ahhhhfs.com/52700)
-    - [2024 精校小说下载网站集合 | ahhhhfs - A姐分享](https://www.ahhhhfs.com/25350)
+    - [2024 精校小说下载网站集合 ahhhhfs - A姐分享](https://www.ahhhhfs.com/25350)
     - [80套PS付费课程资料合集 973GB - A姐分享](https://www.ahhhhfs.com/36672)
 
 

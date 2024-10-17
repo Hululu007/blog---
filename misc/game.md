@@ -14,9 +14,9 @@
 
 - [Codex Pascals.wager.definitive.edition SOCIGAMES](https://archive.org/details/codex-pascals.wager.definitive.edition-socigames.-com)
 
-- [Download Batman The Enemy Within The Telltale Series Complete Season [PC] [MULTi9-ElAmigos] [Torrent] | ElAmigos-Games](https://www.elamigos-games.net/games/batman-the-enemy-within-the-telltale-series-complete-season)
+- [Download Batman The Enemy Within The Telltale Series Complete Season ElAmigos-Games](https://www.elamigos-games.net/games/batman-the-enemy-within-the-telltale-series-complete-season)
 
-- [Download Castlevania: Lords of Shadow 2 [PC] [MULTi7-ElAmigos] [Torrent] | ElAmigos-Games](https://www.elamigos-games.net/games/castlevania-lords-of-shadow-2-pc-esp)
+- [Download Castlevania: Lords of Shadow 2 ElAmigos-Games](https://www.elamigos-games.net/games/castlevania-lords-of-shadow-2-pc-esp)
 
 - [Tail of Desire v2023.09.21 - Dikgames](https://dikgames.com/tail-of-desire/)
 
@@ -59,11 +59,11 @@
 
 
 #### Ova Games打包分享
-- [Castlevania Lords of Shadow Ultimate Edition-FLT | Ova Games](https://www.ovagames.com/889744-castlevania-lords-of-shadow-ultimate-edition-flt.html)
+- [Castlevania Lords of Shadow Ultimate Edition-FLT Ova Games](https://www.ovagames.com/889744-castlevania-lords-of-shadow-ultimate-edition-flt.html)
 
-- [Bloody Spell MULTi3-ElAmigos | Ova Games](https://www.ovagames.com/853392-bloody-spell-multi3-elamigos.html)
+- [Bloody Spell MULTi3-ElAmigos Ova Games](https://www.ovagames.com/853392-bloody-spell-multi3-elamigos.html)
 
-- [Pascals Wager Definitive Edition MULTi11-ElAmigos | Ova Games](https://www.ovagames.com/285323-pascals-wager-definitive-edition-multi11-elamigos.html)
+- [Pascals Wager Definitive Edition MULTi11-ElAmigos Ova Games](https://www.ovagames.com/285323-pascals-wager-definitive-edition-multi11-elamigos.html)
 
 ---
 
