@@ -1,0 +1,72 @@
+# winxp 生存指南
+
+- [2023 年，我用回了 XP 系统](https://www.bilibili.com/video/BV14p4y1j79V)
+
+
+- [Windows xp sp3 cd vl 密钥 - 3000bookworm - 博客园](https://www.cnblogs.com/3000bookworm/p/15428174.html)
+
+
+- [软碟通 可用于制作 u盘 启动器 启动安装windows镜像](https://ultraiso.net)
+    - [UltralSO 软碟通制作U盘启动盘（图解详细 完美避坑）](https://blog.csdn.net/qq_43901693/article/details/95535051)
+
+---
+
+## 影音播放
+
+- [QQ影音](https://pc.qq.com/detail/8/detail_8.html)
+
+- [暴风影音](https://www.mefcl.com/bf16/1293)
+
+- [千千静听](https://www.mefcl.com/ttplayer/8673)
+
+---
+
+## 浏览器
+
+- [支持 winXP、win7 的浏览器supermium，可用最新的谷歌浏览器内核](http://win32subsystem.live/supermium)
+
+---
+
+## 压缩解压软件
+
+- [7-zip](https://www.7-zip.org)
+    - 非常不错的压缩解压软件
+    - v24.07
+        - [32位](https://www.7-zip.org/a/7z2407.exe)
+        - [64位](https://www.7-zip.org/a/7z2407-x64.exe)
+
+- winRAR
+    - 最好的压缩解压软件
+    - 已经测试 5.40 32位版可运行在 xp 系统上
+
+---
+
+## 常用运行库
+
+
+---
+## 输入法
+
+- 手心输入法
+
+---
+
+## 聊天
+- QQ
+
+---
+
+## 看图
+
+- 2345看图王
+    - 支持 pdf 文件阅读，可记忆上次阅读的位置。
+    - [2345看图王去广告安装版](https://www.mefcl.com/2345pic/107)
+
+---
+
+## 下载
+
+- 迅雷
+    - [XP系统安装不了迅雷11，有xp能用的吗？_电影社区_迅雷论坛](https://bbs.xunlei.com/circles/11/posts/39499)
+    - [http://down.sandai.net/thunderx/XunLeiSetup10.0.3.88Beta.exe](http://down.sandai.net/thunderx/XunLeiSetup10.0.3.88Beta.exe)
+

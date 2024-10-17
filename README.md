@@ -6,6 +6,39 @@
 ## 目录：
 
 ### 杂项
+[常用脚本](./misc/常用脚本.md)
+
+[杂](./misc/misc.md)
+
+[浏览器广告拦截](./misc/anti_ad/过滤规则.md)
+
+[Mac软件](./misc/app_Mac.md)
+
+[win软件](./misc/app_win.md)
+
+[winxp软件](./misc/app_winxp.md)
+
+[安卓软件](./misc/app_安卓.md)
+
+[自动签到脚本](./misc/auto_checkin.md)
+
+[GPT](./misc/chatGPT.md)
+
+[电子书](./misc/ebook.md)
+
+[游戏](./misc/game.md)
+
+[github加速](./misc/github_speed.md)
+
+[魔法工具](./misc/magic.md)
+
+[miui](./misc/miui.md)
+
+[音乐](./misc/music.md)
+
+[搜索引擎](./misc/search_engine.md)
+
+[一些up主](./misc/一些up主.md)
 
 [vscode常用快捷键](./misc/vscode常用快捷键.md)
 
