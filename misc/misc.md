@@ -6,7 +6,7 @@
 - [鸡盒导航](https://caoniang.com)
     - 有挺多采集站资源导航
 
-- [湿法炼铜导航(需要科学上网)](https://index.jitsu.top)
+- [湿法炼铜导航(需要科学)](https://index.jitsu.top)
     - 备注: galgame、里番等导航
 
 - [摸鱼技术网 摸鱼儿的主页](https://www.xn--v4q818bf34b.com)
