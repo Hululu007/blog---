@@ -38,6 +38,8 @@
 
 [搜索引擎](./misc/search_engine.md)
 
+[壁纸](./misc/wallpaper.md)
+
 [一些up主](./misc/一些up主.md)
 
 [vscode常用快捷键](./misc/vscode常用快捷键.md)
