@@ -12,8 +12,6 @@
 
 [浏览器广告拦截](./misc/anti_ad/过滤规则.md)
 
-[Mac软件](./misc/app_Mac.md)
-
 [win软件](./misc/app_win.md)
 
 [winxp软件](./misc/app_winxp.md)
@@ -29,8 +27,6 @@
 [游戏](./misc/game.md)
 
 [github加速](./misc/github_speed.md)
-
-[魔法工具](./misc/magic.md)
 
 [miui](./misc/miui.md)
 
