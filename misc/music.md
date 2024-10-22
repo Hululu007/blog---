@@ -40,6 +40,8 @@
 
 - [DJ嗨曲《求佛 》，超强卡点，非常动听_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1pS4y1u7A1)
 
+- [车载DJ歌曲－《可能》，WAV无损音质，程响演唱_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1tn4y1d7kV/)
+
 - [静悄悄 - 曲肖冰“世界突然变得好安静只剩心跳的声音坚定了我爱你的决心此刻你就是唯一”_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1kW4y1r7v6)
 
 - [你爱我像谁（DJ版）_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1CY4y1J7wY)
@@ -47,4 +49,6 @@
 - [无损音质 歌单列表](https://www.bilibili.com/video/BV1zC4y1T72o)
 
 - [【4K修复】《青花》-周传雄_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1YV411B7jD)
+
+- [半醒dj电音投稿视频-半醒dj电音视频分享-哔哩哔哩视频](https://space.bilibili.com/1125801203/video)
 

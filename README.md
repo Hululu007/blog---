@@ -32,8 +32,6 @@
 
 [音乐](./misc/music.md)
 
-[搜索引擎](./misc/search_engine.md)
-
 [壁纸](./misc/wallpaper.md)
 
 [一些up主](./misc/一些up主.md)

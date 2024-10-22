@@ -4,7 +4,7 @@
 >
 > chromium 内核的浏览器推荐安装 Aria2Exporter 插件，然后电脑安装 Aria2 懒人版 或者 Motrix ，这样下载时通过 Aria2Exporter 插件拦截导出到 Aria2 / Motrix 下载，可以多线程下载提高速度，已知的支持的网盘有 MegaUp.net 
 >
-> 1Fichier 不支持，这网盘会有ip检测等多种手段阻止下载。推荐使用 Brave 浏览器访问这个网盘的资源，如果ip被禁一段时间，那么此时可以借助科学工具切换节点(换ip)来绕过限制，如果是 Chrome 浏览器，还是会被识别出来，因为Chrome的隐私防护不如 Brave 浏览器。
+> 1Fichier 不支持，这网盘会有ip检测等多种手段阻止下载。如果ip被禁一段时间，那么此时可以借助科学工具切换节点(换ip)来绕过限制
 >
 > google drive 网盘也不支持
 

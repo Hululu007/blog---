@@ -1,3 +1,20 @@
+### 搜索引擎
+- [必应](https://bing.com)
+    - 备注: 替代百毒
+    
+- [Yandex](https://yandex.com)
+    - 备注: 俄罗斯的搜索引擎，搜索效果还是不错的，经常搜出一些大人的网站 doge
+
+- 元搜索引擎，抓取谷歌的搜索结果，不稳定，大多数用几周就挂了，不建议用，还是建议科学后用 google 、否则用 必应、Yandex 搜索。
+
+    - [etsi](https://etsi.me)
+
+    - [zhenyapav.com](https://searx.zhenyapav.com)
+
+    - [ooglester](https://ooglester.com)
+
+---
+
 ### 导航站点
 - 来源: 使用必应搜索：电影下载 导航，即可找到许多导航站点
 
@@ -121,6 +138,8 @@
 
 - [文件中转传输](https://drop.space/space/)
 
+- [github搜索](https://seart-ghs.si.usi.ch/)
+
 - [姬路白雪の资源小站](https://a.tkacg.com/133.html)
 
 - [安卓塞班模拟器，N-Gage2中文整合版平台](https://www.bilibili.com/video/BV1qQ4y1B7Aq)
@@ -165,6 +184,17 @@
 - [美工修图 - 猪豆网](https://www.97444.cn/zixuejiaocheng/meigongxiutu)
 
 - [M3U8在线播放器 - 程序员工具箱 - 在线工具](http://tool.pfan.cn/m3u8)
+
+- [哔哩哔哩 的第三方 Android TV 应用](https://github.com/aaa1115910/bv)
+
+- [stantanasi/streamflix](https://github.com/stantanasi/streamflix)
+    - An Android TV and mobile app to stream movies and TV shows for free
+    
+- [hxh19950701/WebViewTvLive](https://github.com/hxh19950701/WebViewTvLive)
+    - 使用 腾讯X5 WebView 开发的电视直播App
+
+- [mawaqit/android-tv-app](https://github.com/mawaqit/android-tv-app)
+    - Prayer times App for Android TV
 
 ---
 

@@ -41,9 +41,6 @@
 - 资源：
     - [安卓+PC天马3.5 正式版 复古模拟器 - 何浩的个人网站](https://haohe.fun/2022/07/%E5%AE%89%E5%8D%93pc%E5%A4%A9%E9%A9%AC3-5-%E6%AD%A3%E5%BC%8F%E7%89%88-%E5%A4%8D%E5%8F%A4%E6%A8%A1%E6%8B%9F%E5%99%A8)
     - [需科学，天马G1.X用街机整合包测试版 - 简介有惊喜](https://www.youtube.com/watch?v=5npA2VJ-a4g)
-    - [天马G1.X用街机整合包测试版 - 哔哩哔哩](https://www.bilibili.com/read/cv32294402)
-        - https://pan.baidu.com/share/init?surl=Sw0urZsdRNdWHf7-7CBSRQ&pwd=tklm
-        - 解压密码：跳坑者联盟
     - [天马G洗版级更新 - 经典游戏怀旧专区 - TGFC Lifestyle](https://bbs.tgfcer.com/viewthread.php?tid=8359222)
         - https://pan.baidu.com/s/1_JZvLS1UXcnPsfBRiafzfw?pwd=27qj
         - 解压密码：tgfctgfctgfc
@@ -118,23 +115,6 @@
 		- [Windows 版 Hiddify-Windows-Setup-x64.exe 下载](https://github.com/hiddify/hiddify-next/releases/download/v2.0.5/Hiddify-Windows-Setup-x64.exe)
 		- [Windows 版 Hiddify-Windows-Setup-x64.exe 加速下载](https://ghproxy.cc/https://github.com/hiddify/hiddify-next/releases/download/v2.0.5/Hiddify-Windows-Setup-x64.exe)
 
-- [v2rayNG](https://github.com/2dust/v2rayNG)
-    - 科学(魔法)工具，老牌工具，强大，
-	- 支持 base64 编码的节点订阅、通用v2ray订阅，支持局域网代理、分应用代理。
-    - 支持局域网代理，首次安装后，记得点击左上角菜单(三个横杆的按钮) --> 设置 --> 找到"进阶设置"的 "跳过证书验证(allowInsecure)" ，然后开启这项功能。因为很多 trojan / vless 节点使用的 tls 传输需要开启这个才能正常科学。
-    - v1.6.15 以上开始支持批量删除无效节点
-    - v1.6.20 以上开始支持按测速排序
-    - v1.6.30 是最后一个支持安卓4.4的版本，后面都要安卓5.0以上了
-    - v1.7.x 的订阅节点超过40个，软件界面就比较卡，不建议使用 1.7.x
-    - 从v1.7.x~v1.8.36之间的版本，一直存在分组bug，删除失效节点会导致其他分组节点全部删除的问题，而且节点数量超过四五十个就特别卡顿。
-    - v1.8.38 主界面增加分组过滤，所有功能菜单针对当前分组生效；若选中的是所有分组，则功能针对所有分组，一些耗时的任务增加顶部进度条，比如更新订阅，修改菜单文字描述，修复一些已知的问题。附：节点数量多卡顿问题优化得比较好了，可以使用了。
-
-    - 安卓 4.2 以上，v1.6.30，trojan节点设置增强，新增全局直连路由模式。[1.6.30发布地址](https://github.com/2dust/v2rayNG/releases/tag/1.6.30)
-        - [v2rayNG_1.6.30_armeabi-v7a.apk](https://github.com/2dust/v2rayNG/releases/download/1.6.30/v2rayNG_1.6.30_armeabi-v7a.apk)
-        - [v2rayNG_1.6.30_armeabi-v7a.apk 加速下载](https://ghproxy.cc/https://github.com/2dust/v2rayNG/releases/download/1.6.30/v2rayNG_1.6.30_armeabi-v7a.apk)
-        - [v2rayNG_1.6.30_arm64-v8a.apk](https://github.com/2dust/v2rayNG/releases/download/1.6.30/v2rayNG_1.6.30_arm64-v8a.apk)
-        - [v2rayNG_1.6.30_arm64-v8a.apk 加速下载](https://ghproxy.cc/https://github.com/2dust/v2rayNG/releases/download/1.6.30/v2rayNG_1.6.30_arm64-v8a.apk)
-
 - [NekoBox](https://github.com/MatsuriDayo/NekoBoxForAndroid)
     - 支持 yml、yaml、base64订阅，与 v2rayNG相比支持更多协议，如 hysteria2 协议
     - 节点数量几百个也流畅，不像 v2rayNG ，几十个就特别卡顿
@@ -195,7 +175,6 @@
 - [影视TV](https://github.com/FongMi/TV)
     - 支持猫影视自定义爬虫、道长drpy爬虫、python爬虫的开源软件，自v2.2.0以后交给 okjack 接手开发维护后，闪退bug增加了特别多，基本没有能稳定使用的版本了。而 2.1.1～2.2.0之间的版本依旧不稳定，因为fongmi赶着更新版本号，几天更新一个版本，使用稳定上面还是建议使用 TVBox
     - 收录了一些历史版本源码的仓库：[chengxue2020/BearTV](https://github.com/chengxue2020/BearTV)
-
     - okjack透明颜色修改的记录，可以逆着改回白色背景，可参考 [commit](https://github.com/FongMi/TV/commit/d875b476af6d5b0c678e7ce2b43c90a2ace62e3a)
 
 - [cloudstream](https://github.com/recloudstream/cloudstream) 
