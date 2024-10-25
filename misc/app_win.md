@@ -42,10 +42,3 @@
 - [C4D R25版](https://www.downkuai.com/soft/146300.html)
 
 ---
-
-### 浏览器
-- Chrome历史版本
-    - tags：[103](https://github.com/ulixee/chrome-versions/tags?after=105.0.5195.127)
-    - [100内核](https://github.com/ulixee/chrome-versions/releases/tag/100.0.4896.127)
-    - [103内核](https://github.com/ulixee/chrome-versions/releases/tag/103.0.5060.134)
-    - [108内核，最后一个支持win7的版本](https://github.com/ulixee/chrome-versions/releases/tag/108.0.5359.125)

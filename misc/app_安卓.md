@@ -18,8 +18,12 @@
 
 - [阅读](https://github.com/gedoor/legado) 非常强大支持自定义书源的阅读软件，支持 txt 格式小说、epub
     - 书源仓库
-        - [阅读 - 源仓库](https://www.e-yck.top/yuedu/shuyuans/index.html)
+        - [阅读 - 源仓库](https://www.yckceo1.com/)
+            - 推荐，有精选的源，选择几十个的那种就好，多了没意义
+            - 超过100个，搜索等半天，很多还是垃圾站。
+        - [Yiove 书源仓库 - 三千书源](https://shuyuan.yiove.com/)
         - [阅读APP源 - AOAOSTAR](https://legado.aoaostar.com/)
+            - 【源数量过多，不推荐】
 
     - v3.25
         - [apk 下载](https://github.com/gedoor/legado/releases/download/3.25/legado_app_3.25.apk)

@@ -52,3 +52,9 @@
 
 - [半醒dj电音投稿视频-半醒dj电音视频分享-哔哩哔哩视频](https://space.bilibili.com/1125801203/video)
 
+- [年少的你啊 - 浩然H.R【Hi-Res无损音质】_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1CSHTeuEAr/)
+
+- [【Hi-Res无损】《列车开往春天》就是南方凯_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1sqYTeqEVU)
+
+- [DJ版《列车开往春天》| 带着梦想，奔向那春天的列车啊！！_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1HS411N7WP/)
+

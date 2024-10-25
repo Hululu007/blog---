@@ -1,5 +1,13 @@
 # winxp 生存指南
 
+- [supermium 最强浏览器（移植新chromium内核），支持winXP](http://www.win32subsystem.live/supermium/)
+    - [Supermium – 为 Windows XP、2003、Vista、7、8.x 优化的 Chromium 浏览器](http://www.appinn.com/supermium/)
+    - Supermium 是一款专门为老旧操作系统而优化的浏览器，
+    - 使用了最新版本 Chromium，让你在旧系统上，也能享受现代 Web（访问很多现代网站），
+    - 并且不会删除基于 Manifest V2 的“老旧插件”，
+    - 支持 Windows XP、2003、Vista、7、8.x，支持 32 位操作系统。
+
+
 - [2023 年，我用回了 XP 系统](https://www.bilibili.com/video/BV14p4y1j79V)
 
 
