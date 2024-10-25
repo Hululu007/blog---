@@ -2,8 +2,6 @@
 - Github镜像站
     - 来源：https://coderschool.cn/3724.html
 
-    - 镜像1: https://521github.com
-
     - 镜像2: https://dgithub.xyz
 
 - Github raw、zip、clone、release 文件加速

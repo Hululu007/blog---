@@ -81,8 +81,6 @@
 
 #### 模拟器游戏资源
 
-- [HBMAME 0.221 ROMs (merged) 模拟器街机ROM合集 百度网盘 天翼云盘下载 22.8GB](https://26vv.com/2020/05/09/hbmame-0-221-roms-merged-%E6%A8%A1%E6%8B%9F%E5%99%A8%E8%A1%97%E6%9C%BArom%E5%90%88%E9%9B%86-%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98-%E5%A4%A9%E7%BF%BC%E4%BA%91%E7%9B%98%E4%B8%8B%E8%BD%BD-22-8gb/)
-
 - [天马模拟器整合前端v2.0（PC版+安卓版）](https://haohe.fun/2021/03/%E5%A4%A9%E9%A9%AC%E6%A8%A1%E6%8B%9F%E5%99%A8%E6%95%B4%E5%90%88%E5%89%8D%E7%AB%AFv2-0%EF%BC%88pc%E7%89%88%E5%AE%89%E5%8D%93%E7%89%88%EF%BC%89/)
     - [onedrive下载](https://od.lk/fl/M18zODQ1Nzc4N18)
     - [天翼云盘下载（访问码：zy9n）](https://cloud.189.cn/t/IzYvaqamQBJv)
@@ -91,8 +89,6 @@
 - [安卓+PC天马3.5 正式版 复古模拟器](https://haohe.fun/2022/07/%e5%ae%89%e5%8d%93pc%e5%a4%a9%e9%a9%ac3-5-%e6%ad%a3%e5%bc%8f%e7%89%88-%e5%a4%8d%e5%8f%a4%e6%a8%a1%e6%8b%9f%e5%99%a8/)
     - [天翼云盘下载（访问码:fsh8) ​](https://cloud.189.cn/t/7BfIZzVFFBNn)
     - 解压密码：跳坑者联盟
-
-- [游戏资源-字母铺](https://www.zimupu.com/%e6%b8%b8%e6%88%8f)
 
 - [3DS、PSP、PS2、PS3、switch中文rom下载](https://share.gistwillan.top)
 
