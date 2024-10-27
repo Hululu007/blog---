@@ -1,7 +1,5 @@
 ### chatGPT
 
-- [gpt4mini](https://g2.iswl.one)
-
 - [aiyunos](http://chat5.aiyunos.top)
 
 - [https://chatnio.liujiarong.top](https://chatnio.liujiarong.top)

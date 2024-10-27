@@ -22,6 +22,7 @@
             - 推荐，有精选的源，选择几十个的那种就好，多了没意义
             - 超过100个，搜索等半天，很多还是垃圾站。
         - [Yiove 书源仓库 - 三千书源](https://shuyuan.yiove.com/)
+        - [猫公子](https://dy.mgz6.com/)
         - [阅读APP源 - AOAOSTAR](https://legado.aoaostar.com/)
             - 【源数量过多，不推荐】
 
@@ -78,19 +79,19 @@
 ### 代理工具
 - [FlClash](https://github.com/chen08209/FlClash)
 	- 支持 yml / yaml 等订阅
-	- v0.8.64，要求 安卓5.0以上，win和macOS只测试过 win10 和 macOS 11 可用，[发布地址](https://github.com/chen08209/FlClash/releases/tag/v0.8.64)
-		- [安卓版 FlClash-0.8.64-android-armeabi-v7a.apk 下载](https://github.com/chen08209/FlClash/releases/download/v0.8.64/FlClash-0.8.64-android-armeabi-v7a.apk)
-		- [安卓版 FlClash-0.8.64-android-armeabi-v7a.apk 加速下载](https://ghproxy.cc/https://github.com/chen08209/FlClash/releases/download/v0.8.64/FlClash-0.8.64-android-armeabi-v7a.apk)
-		- [安卓版 FlClash-0.8.64-android-arm64-v8a.apk 下载](https://github.com/chen08209/FlClash/releases/download/v0.8.64/FlClash-0.8.64-android-arm64-v8a.apk)
-		- [安卓版 FlClash-0.8.64-android-arm64-v8a.apk 加速下载](https://ghproxy.cc/https://github.com/chen08209/FlClash/releases/download/v0.8.64/FlClash-0.8.64-android-arm64-v8a.apk)
-		- [macOS版 intel cpu 版 FlClash-0.8.64-macos-amd64.dmg 下载](https://github.com/chen08209/FlClash/releases/download/v0.8.64/FlClash-0.8.64-macos-amd64.dmg)
-		- [macOS版 intel cpu 版 FlClash-0.8.64-macos-amd64.dmg 加速下载](https://ghproxy.cc/https://github.com/chen08209/FlClash/releases/download/v0.8.64/FlClash-0.8.64-macos-amd64.dmg)
-		- [macOS版 M 芯片 arm 架构版 FlClash-0.8.64-macos-arm64.dmg 下载](https://github.com/chen08209/FlClash/releases/download/v0.8.64/FlClash-0.8.64-macos-arm64.dmg)
-		- [macOS版 M 芯片 arm 架构版 FlClash-0.8.64-macos-arm64.dmg 加速下载](https://ghproxy.cc/https://github.com/chen08209/FlClash/releases/download/v0.8.64/FlClash-0.8.64-macos-arm64.dmg)
-		- [windows版 FlClash-0.8.64-windows-amd64-setup.exe 下载](https://github.com/chen08209/FlClash/releases/download/v0.8.64/FlClash-0.8.64-windows-amd64-setup.exe)
-		- [windows版 FlClash-0.8.64-windows-amd64-setup.exe 加速下载](https://ghproxy.cc/https://github.com/chen08209/FlClash/releases/download/v0.8.64/FlClash-0.8.64-windows-amd64-setup.exe)
-		- [windows版 FlClash-0.8.64-windows-amd64.zip 下载](https://github.com/chen08209/FlClash/releases/download/v0.8.64/FlClash-0.8.64-windows-amd64.zip)
-		- [windows版 FlClash-0.8.64-windows-amd64.zip 加速下载](https://ghproxy.cc/https://github.com/chen08209/FlClash/releases/download/v0.8.64/FlClash-0.8.64-windows-amd64.zip)
+	- v0.8.66，要求 安卓5.0以上，win和macOS只测试过 win10 和 macOS 11 可用，[发布地址](https://github.com/chen08209/FlClash/releases/tag/v0.8.66)
+		- [安卓版 FlClash-0.8.66-android-armeabi-v7a.apk 下载](https://github.com/chen08209/FlClash/releases/download/v0.8.66/FlClash-0.8.66-android-armeabi-v7a.apk)
+		- [安卓版 FlClash-0.8.66-android-armeabi-v7a.apk 加速下载](https://ghproxy.cc/https://github.com/chen08209/FlClash/releases/download/v0.8.66/FlClash-0.8.66-android-armeabi-v7a.apk)
+		- [安卓版 FlClash-0.8.66-android-arm64-v8a.apk 下载](https://github.com/chen08209/FlClash/releases/download/v0.8.66/FlClash-0.8.66-android-arm64-v8a.apk)
+		- [安卓版 FlClash-0.8.66-android-arm64-v8a.apk 加速下载](https://ghproxy.cc/https://github.com/chen08209/FlClash/releases/download/v0.8.66/FlClash-0.8.66-android-arm64-v8a.apk)
+		- [macOS版 intel cpu 版 FlClash-0.8.66-macos-amd64.dmg 下载](https://github.com/chen08209/FlClash/releases/download/v0.8.66/FlClash-0.8.66-macos-amd64.dmg)
+		- [macOS版 intel cpu 版 FlClash-0.8.66-macos-amd64.dmg 加速下载](https://ghproxy.cc/https://github.com/chen08209/FlClash/releases/download/v0.8.66/FlClash-0.8.66-macos-amd64.dmg)
+		- [macOS版 M 芯片 arm 架构版 FlClash-0.8.66-macos-arm64.dmg 下载](https://github.com/chen08209/FlClash/releases/download/v0.8.66/FlClash-0.8.66-macos-arm64.dmg)
+		- [macOS版 M 芯片 arm 架构版 FlClash-0.8.66-macos-arm64.dmg 加速下载](https://ghproxy.cc/https://github.com/chen08209/FlClash/releases/download/v0.8.66/FlClash-0.8.66-macos-arm64.dmg)
+		- [windows版 FlClash-0.8.66-windows-amd64-setup.exe 下载](https://github.com/chen08209/FlClash/releases/download/v0.8.66/FlClash-0.8.66-windows-amd64-setup.exe)
+		- [windows版 FlClash-0.8.66-windows-amd64-setup.exe 加速下载](https://ghproxy.cc/https://github.com/chen08209/FlClash/releases/download/v0.8.66/FlClash-0.8.66-windows-amd64-setup.exe)
+		- [windows版 FlClash-0.8.66-windows-amd64.zip 下载](https://github.com/chen08209/FlClash/releases/download/v0.8.66/FlClash-0.8.66-windows-amd64.zip)
+		- [windows版 FlClash-0.8.66-windows-amd64.zip 加速下载](https://ghproxy.cc/https://github.com/chen08209/FlClash/releases/download/v0.8.66/FlClash-0.8.66-windows-amd64.zip)
 
 
 - [hiddify-next](https://github.com/hiddify/hiddify-next)
